@@ -1,0 +1,428 @@
+justeatit.rb:157: syntax error, unexpected '}', expecting keyword_end
+justeatit.rb:286: syntax error, unexpected keyword_end, expecting '}'
+end                   
+   ^
+justeatit.rb:307: syntax error, unexpected $end, expecting '}'
+[deprecated] I18n.enforce_available_locales will default to true in the future. If you really want to skip validation of your locale you can set I18n.enforce_available_locales = false to avoid this message.
+-------------- Connecting to mongo db -----------------------
+Visit collection: []
+Stores collection: #<Mongo::Collection:0x00000002ca7180>
+visiting link: http://www.just-eat.ie/takeaways
+visiting link: http://www.just-eat.ie/
+visiting link: http://www.just-eat.ie
+visiting link: http://www.just-eat.ie/cookiespolicy
+visiting link: http://www.just-eat.ie/cookiespolicy/strictlynecessarycookies
+visiting link: http://www.just-eat.ie/new-takeaways
+visiting link: http://www.just-eat.ie/member/login
+visiting link: http://www.just-eat.ie/member/signup
+visiting link: http://www.just-eat.ie/privacy-policy#privacy_policy
+visiting link: http://www.just-eat.ie#website_terms_and_conditions
+visiting link:  http://www.just-eat.ie/apps 
+visiting link: http://www.just-eat.ietel:01 872 7863
+Exception raised... continue on another link
+the scheme http does not accept registry part: www.just-eat.ietel:01%2520872%25207863 (or bad hostname?)
+visiting link: http://www.just-eat.ie/blog/category/cuisine/pizza-cuisine/
+visiting link: http://www.just-eat.ie/blog/category/cuisine/chinese/
+visiting link: http://www.just-eat.ie/blog/category/cuisine/indian/
+visiting link: http://www.just-eat.ie/blog/?s=mexican
+visiting link: http://www.just-eat.ie/blog/?s=thai
+visiting link: http://www.just-eat.ie/takeaways/dublin-area/
+visiting link: http://www.just-eat.ie/takeaways/limerick/
+visiting link: http://www.just-eat.ie/takeaways/cork/
+visiting link: http://www.just-eat.ie/takeaways/galway/
+visiting link: http://www.just-eat.ie/takeaways/waterford/
+visiting link: http://www.just-eat.ie/blog
+visiting link: http://www.just-eat.ie/privacy-policy
+visiting link: http://www.just-eat.ie/about
+visiting link: http://www.just-eat.ie/faq
+visiting link: http://www.just-eat.ie#terms_and_conditions_of_use_and_sale
+visiting link: http://www.just-eat.ietel:01 872 7863
+Exception raised... continue on another link
+the scheme http does not accept registry part: www.just-eat.ietel:01%2520872%25207863 (or bad hostname?)
+visiting link: http://www.just-eat.ie#privacy_policy
+visiting link: http://www.just-eat.ietel:01 872 7863
+Exception raised... continue on another link
+the scheme http does not accept registry part: www.just-eat.ietel:01%2520872%25207863 (or bad hostname?)
+visiting link: http://www.just-eat.ie#voucher_terms_and_conditions
+visiting link: http://www.just-eat.ietel:01 872 7863
+Exception raised... continue on another link
+the scheme http does not accept registry part: www.just-eat.ietel:01%2520872%25207863 (or bad hostname?)
+visiting link: http://www.just-eat.ie#competitions_terms_and_conditions
+visiting link: http://www.just-eat.ietel:01 872 7863
+Exception raised... continue on another link
+the scheme http does not accept registry part: www.just-eat.ietel:01%2520872%25207863 (or bad hostname?)
+visiting link: http://www.just-eat.ie/member/forgotpassword
+visiting link: http://www.just-eat.ie/restaurants-Scentathome-Churchtown/menu
+Get data from product http://www.just-eat.ie/restaurants-Scentathome-Churchtown/menu
+The address is: 1 Landscape Road,Churchtown           ,Ireland
+LAT: 53.2989015
+LNG: -6.2683841
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-Scentathome-Churchtown
+visiting link: http://www.just-eat.ie/area/churchtown
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/american
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/asian
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/chinese
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/indian
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/international
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/irish
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/italian
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/japanese
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/lebanese
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/pizza
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/syrian
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/thai
+visiting link: http://www.just-eat.ie/area/churchtown-dublin-14/turkish
+visiting link: http://www.just-eat.ie/restaurants-Abrakebabra-Donnybrook/menu
+Get data from product http://www.just-eat.ie/restaurants-Abrakebabra-Donnybrook/menu
+The address is: 3 The Mall,Donnybrook           ,Ireland
+LAT: 53.3223415
+LNG: -6.2378234
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-Abrakebabra-Donnybrook/menu-13889
+Get data from product http://www.just-eat.ie/restaurants-Abrakebabra-Donnybrook/menu-13889
+The address is: 3 The Mall,Donnybrook           ,Ireland
+LAT: 53.3223415
+LNG: -6.2378234
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-Abrakebabra-Donnybrook
+visiting link: http://www.just-eat.ie/restaurants-apacherathmines/menu
+Get data from product http://www.just-eat.ie/restaurants-apacherathmines/menu
+The address is: 147 Upper Rathmines Road,Rathmines           ,Ireland
+LAT: 53.3162039
+LNG: -6.265477799999999
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-apacherathmines
+visiting link: http://www.just-eat.ie/restaurants-apachepizza-Dundrum/menu
+Get data from product http://www.just-eat.ie/restaurants-apachepizza-Dundrum/menu
+The address is: 1 Roseville Terrace,Dundrum           ,Ireland
+LAT: 53.29393899999999
+LNG: -6.2456532
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-apachepizza-Dundrum
+visiting link: http://www.just-eat.ie/restaurants-apachepizza-Dundrum/reviews
+visiting link: http://www.just-eat.ie/restaurants-wagamamadundrum/menu
+Get data from product http://www.just-eat.ie/restaurants-wagamamadundrum/menu
+The address is: Pembroke District, Dundrum Town Centre,Dundrum           ,Ireland
+LAT: 53.2891321
+LNG: -6.2432643
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-wagamamadundrum
+visiting link: http://www.just-eat.ie/restaurants-wagamamadundrum/reviews
+visiting link: http://www.just-eat.ie/restaurants-sanmarino-Dundrum/menu
+Get data from product http://www.just-eat.ie/restaurants-sanmarino-Dundrum/menu
+The address is: Arbourfield Terace Windy Arbour,Dundrum           ,Ireland
+LAT: 53.3021943
+LNG: -6.244872
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-sanmarino-Dundrum
+visiting link: http://www.just-eat.ie/restaurants-sanmarino-Dundrum/reviews
+visiting link: http://www.just-eat.ie/restaurants-JackieSue-WindyArbour/menu
+Get data from product http://www.just-eat.ie/restaurants-JackieSue-WindyArbour/menu
+The address is: 2 Olivemount,Windy Arbour           ,Ireland
+LAT: 53.3044427
+LNG: -6.2454225
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-JackieSue-WindyArbour/menu-14349
+Get data from product http://www.just-eat.ie/restaurants-JackieSue-WindyArbour/menu-14349
+The address is: 2 Olivemount,Windy Arbour           ,Ireland
+LAT: 53.3044427
+LNG: -6.2454225
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-JackieSue-WindyArbour
+visiting link: http://www.just-eat.ie/restaurants-JackieSue-WindyArbour/reviews
+visiting link: http://www.just-eat.ie/restaurants-siamthaitogo/menu
+Get data from product http://www.just-eat.ie/restaurants-siamthaitogo/menu
+The address is: 12 Ranelagh Village,Ranelagh           ,Ireland
+LAT: 53.3262422
+LNG: -6.2557205
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-siamthaitogo/menu-8236
+Get data from product http://www.just-eat.ie/restaurants-siamthaitogo/menu-8236
+The address is: 12 Ranelagh Village,Ranelagh           ,Ireland
+LAT: 53.3262422
+LNG: -6.2557205
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-siamthaitogo
+visiting link: http://www.just-eat.ie/restaurants-siamthaitogo/reviews
+visiting link: http://www.just-eat.ie/restaurants-pizzahutdeliveryrathfarnham/menu
+Get data from product http://www.just-eat.ie/restaurants-pizzahutdeliveryrathfarnham/menu
+The address is: 165 Ballyboden Road Rathfarnham,Rathfarnham           ,Ireland
+LAT: 53.2829642
+LNG: -6.296696499999999
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-pizzahutdeliveryrathfarnham
+visiting link: http://www.just-eat.ie/restaurants-pizzahutdeliveryrathfarnham/reviews
+visiting link: http://www.just-eat.ie/restaurants-tanisushi/menu
+Get data from product http://www.just-eat.ie/restaurants-tanisushi/menu
+The address is: 93 Terenure Rd North,Terenure           ,Ireland
+LAT: 53.31058549999999
+LNG: -6.283037200000001
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-tanisushi/menu-9861
+Get data from product http://www.just-eat.ie/restaurants-tanisushi/menu-9861
+The address is: 93 Terenure Rd North,Terenure           ,Ireland
+LAT: 53.31058549999999
+LNG: -6.283037200000001
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-tanisushi
+visiting link: http://www.just-eat.ie/restaurants-tanisushi/reviews
+visiting link: http://www.just-eat.ie/restaurants-damascusgate/menu
+Get data from product http://www.just-eat.ie/restaurants-damascusgate/menu
+The address is: 10 Camden Street,Dublin 2           ,Ireland
+LAT: 53.3332796
+LNG: -6.2650178
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-damascusgate
+visiting link: http://www.just-eat.ie/restaurants-damascusgate/reviews
+visiting link: http://www.just-eat.ie/restaurants-mythai/menu
+Get data from product http://www.just-eat.ie/restaurants-mythai/menu
+The address is: The Beacon Hotel Sandyford,Sandyford           ,Ireland
+LAT: 53.2699712
+LNG: -6.2249229
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-mythai/menu-6074
+Get data from product http://www.just-eat.ie/restaurants-mythai/menu-6074
+The address is: The Beacon Hotel Sandyford,Sandyford           ,Ireland
+LAT: 53.2699712
+LNG: -6.2249229
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-mythai
+visiting link: http://www.just-eat.ie/restaurants-mythai/reviews
+visiting link: http://www.just-eat.ie/restaurants-fourstarpizzarathfarnham/menu
+Get data from product http://www.just-eat.ie/restaurants-fourstarpizzarathfarnham/menu
+The address is: Topaz Petrol Station Rathfarnham,Rathfarnham           ,Ireland
+LAT: 53.3004978
+LNG: -6.2838544
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-fourstarpizzarathfarnham
+visiting link: http://www.just-eat.ie/restaurants-fourstarpizzarathfarnham/reviews
+visiting link: http://www.just-eat.ie/restaurants-fourstard18/menu
+Get data from product http://www.just-eat.ie/restaurants-fourstard18/menu
+The address is: Unit 13a Balally Shopping Centre Sandyford,Sandyford           ,Ireland
+LAT: 53.2765816
+LNG: -6.2240018
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-fourstard18
+visiting link: http://www.just-eat.ie/restaurants-fourstard18/reviews
+visiting link: http://www.just-eat.ie/restaurants-indiantasted8/menu
+Get data from product http://www.just-eat.ie/restaurants-indiantasted8/menu
+The address is: 73 Cork Street,The Coombe           ,Ireland
+LAT: 53.3357074
+LNG: -6.289553199999999
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-indiantasted8
+visiting link: http://www.just-eat.ie/restaurants-indiantasted8/reviews
+visiting link: http://www.just-eat.ie/restaurants-Pizzamax-Dundrum/menu
+Get data from product http://www.just-eat.ie/restaurants-Pizzamax-Dundrum/menu
+The address is: 1 Olivermount Windy Arbour,Windy Arbour           ,Ireland
+get addr try again
+get addr try again
+get addr try again
+get addr try again
+get addr try again
+get addr try again
+get addr try again
+get addr try again
+get addr try again
+get addr try again
+get addr try again
+Exception raised... continue on another link
+undefined method `[]=' for nil:NilClass
+visiting link: http://www.just-eat.ie/restaurants-Pizzamax-Dundrum
+visiting link: http://www.just-eat.ie/restaurants-Pizzamax-Dundrum/reviews
+visiting link: http://www.just-eat.ie/restaurants-chenschineserestaurant/menu
+Get data from product http://www.just-eat.ie/restaurants-chenschineserestaurant/menu
+The address is: 38 Main Street,Rathfarnham           ,Ireland
+LAT: 53.2984264
+LNG: -6.2855115
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-chenschineserestaurant
+visiting link: http://www.just-eat.ie/restaurants-chenschineserestaurant/reviews
+visiting link: http://www.just-eat.ie/restaurants-marsellaschurchtown/menu
+Get data from product http://www.just-eat.ie/restaurants-marsellaschurchtown/menu
+The address is: 2 Beaumont Avenue,Churchtown           ,Ireland
+LAT: 53.2947618
+LNG: -6.2569195
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-marsellaschurchtown
+visiting link: http://www.just-eat.ie/restaurants-marsellaschurchtown/reviews
+visiting link: http://www.just-eat.ie/restaurants-macari66/menu
+Get data from product http://www.just-eat.ie/restaurants-macari66/menu
+The address is: 125 A Braemor Road,Churchtown           ,Ireland
+LAT: 53.3006374
+LNG: -6.2637799
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-macari66
+visiting link: http://www.just-eat.ie/restaurants-macari66/reviews
+visiting link: http://www.just-eat.ie/restaurants-taipingchineseandthai/menu
+Get data from product http://www.just-eat.ie/restaurants-taipingchineseandthai/menu
+The address is: 117 Braemor Road,Churchtown           ,Ireland
+LAT: 53.3004741
+LNG: -6.2634368
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-taipingchineseandthai
+visiting link: http://www.just-eat.ie/restaurants-taipingchineseandthai/reviews
+visiting link: http://www.just-eat.ie/restaurants-hongkongkitchen/menu
+Get data from product http://www.just-eat.ie/restaurants-hongkongkitchen/menu
+The address is: 2 Beaumount Avenue,Churchtown           ,Ireland
+LAT: 53.2947618
+LNG: -6.2569195
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-hongkongkitchen
+visiting link: http://www.just-eat.ie/restaurants-hongkongkitchen/reviews
+visiting link: http://www.just-eat.ie/restaurants-LeSpice-Dundrum/menu
+Get data from product http://www.just-eat.ie/restaurants-LeSpice-Dundrum/menu
+The address is: 9A Main Street,Dundrum           ,Ireland
+LAT: 53.2911085
+LNG: -6.245328499999999
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-LeSpice-Dundrum
+visiting link: http://www.just-eat.ie/restaurants-LeSpice-Dundrum/reviews
+visiting link: http://www.just-eat.ie/restaurants-meghnatandoori/menu
+Get data from product http://www.just-eat.ie/restaurants-meghnatandoori/menu
+The address is: 8-12 Terrenure Place,Terenure           ,Ireland
+LAT: 53.30926299999999
+LNG: -6.2846965
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-meghnatandoori
+visiting link: http://www.just-eat.ie/restaurants-meghnatandoori/reviews
+visiting link: http://www.just-eat.ie/restaurants-easternfusion-Terenure/menu
+Get data from product http://www.just-eat.ie/restaurants-easternfusion-Terenure/menu
+The address is: 94 Terenure Road East,Terenure           ,Ireland
+LAT: 53.310095
+LNG: -6.2830203
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-easternfusion-Terenure
+visiting link: http://www.just-eat.ie/restaurants-easternfusion-Terenure/reviews
+visiting link: http://www.just-eat.ie/restaurants-spicegurud6/menu
+Get data from product http://www.just-eat.ie/restaurants-spicegurud6/menu
+The address is: 69c Rathgar Avenue,Rathgar (Dublin)           ,Ireland
+LAT: 53.3123011
+LNG: -6.2747562
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-spicegurud6
+visiting link: http://www.just-eat.ie/restaurants-spicegurud6/reviews
+visiting link: http://www.just-eat.ie/restaurants-aprilesrathfarnham/menu
+Get data from product http://www.just-eat.ie/restaurants-aprilesrathfarnham/menu
+The address is: 10 Main Street,Rathfarnham           ,Ireland
+LAT: 53.2993295
+LNG: -6.2852333
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-aprilesrathfarnham
+visiting link: http://www.just-eat.ie/restaurants-aprilesrathfarnham/reviews
+visiting link: http://www.just-eat.ie/restaurants-Amberasiancuisine-Churchtown/menu
+Get data from product http://www.just-eat.ie/restaurants-Amberasiancuisine-Churchtown/menu
+The address is: 1a Braemor Park,Rathfarnham           ,Ireland
+LAT: 53.30475329999999
+LNG: -6.263145499999999
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-Amberasiancuisine-Churchtown
+visiting link: http://www.just-eat.ie/restaurants-Amberasiancuisine-Churchtown/reviews
+visiting link: http://www.just-eat.ie/restaurants-noodlebox-Sandyford/menu
+Get data from product http://www.just-eat.ie/restaurants-noodlebox-Sandyford/menu
+The address is: Blackglen Village Centre Ticknock Hill,Sandyford           ,Ireland
+LAT: 53.2699712
+LNG: -6.2249229
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-noodlebox-Sandyford
+visiting link: http://www.just-eat.ie/restaurants-noodlebox-Sandyford/reviews
+visiting link: http://www.just-eat.ie/restaurants-greenitalia/menu
+Get data from product http://www.just-eat.ie/restaurants-greenitalia/menu
+The address is: 37 Upper Rathmines Road,Rathmines           ,Ireland
+LAT: 53.3207724
+LNG: -6.265703299999999
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-greenitalia
+visiting link: http://www.just-eat.ie/restaurants-greenitalia/reviews
+visiting link: http://www.just-eat.ie/restaurants-letseatin-sandyford/menu
+Get data from product http://www.just-eat.ie/restaurants-letseatin-sandyford/menu
+The address is: Unit 6B, Heather Road Sandyford Industrial Estate,Sandyford           ,Ireland
+LAT: 53.2737153
+LNG: -6.213664199999999
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-letseatin-sandyford
+visiting link: http://www.just-eat.ie/restaurants-letseatin-sandyford/reviews
+visiting link: http://www.just-eat.ie/restaurants-delhilounge/menu
+Get data from product http://www.just-eat.ie/restaurants-delhilounge/menu
+The address is: 15 Main Street Rathfarnham Village,Rathfarnham           ,Ireland
+LAT: 53.29901899999999
+LNG: -6.285505499999999
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-delhilounge
+visiting link: http://www.just-eat.ie/restaurants-delhilounge/reviews
+visiting link: http://www.just-eat.ie/restaurants-cinelliwhitechurch/menu
+Get data from product http://www.just-eat.ie/restaurants-cinelliwhitechurch/menu
+The address is: Whitechurch,Whitechurch           ,Ireland
+LAT: 51.9840023
+LNG: -8.516469899999999
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-cinelliwhitechurch
+visiting link: http://www.just-eat.ie/restaurants-cinelliwhitechurch/reviews
+visiting link: http://www.just-eat.ie/restaurants-tikkahouse-TallaghtVillage/menu
+Get data from product http://www.just-eat.ie/restaurants-tikkahouse-TallaghtVillage/menu
+The address is: 1 Belgard Square West,Tallaght Village           ,Ireland
+LAT: 53.2863323
+LNG: -6.3750746
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-tikkahouse-TallaghtVillage
+visiting link: http://www.just-eat.ie/restaurants-tikkahouse-TallaghtVillage/reviews
+visiting link: http://www.just-eat.ie/restaurants-IndiagateD24/menu
+Get data from product http://www.just-eat.ie/restaurants-IndiagateD24/menu
+The address is: Belgard Road,Tallaght Village           ,Ireland
+LAT: 53.2906833
+LNG: -6.369438499999999
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-IndiagateD24
+visiting link: http://www.just-eat.ie/restaurants-IndiagateD24/reviews
+visiting link: http://www.just-eat.ie/restaurants-spiceandrice/menu
+Get data from product http://www.just-eat.ie/restaurants-spiceandrice/menu
+The address is: 2 Malpas Court,The Coombe           ,Ireland
+LAT: 53.3364129
+LNG: -6.2749295
+Exception raised... continue on another link
+undefined local variable or method `current_option' for #<CrawlJustEatIe:0x00000002ca6140>
+visiting link: http://www.just-eat.ie/restaurants-spiceandrice
+visiting link: http://www.just-eat.ie/restaurants-spiceandrice/reviews
+visiting link: http://www.just-eat.ie/restaurants-apachelatenightdelivery-dundrum/menu
+Get data from product http://www.just-eat.ie/restaurants-apachelatenightdelivery-dundrum/menu
+The address is: 1 Roseville Terrace,Dundrum           ,Ireland
